@@ -31,7 +31,7 @@ testAutomation_ESB/
 Sebelum menjalankan project ini, pastikan sudah install:
 
 - Node.js (versi 16 atau lebih baru)
-- npm (biasanya sudah include sama Node.js)
+- npm 
 
 ## Setup Project
 
@@ -131,5 +131,3 @@ Setup konfigurasi ada di file `playwright.config.js`. Beberapa hal yang sudah di
 - Parallel execution: Enabled
 
 
-
-**Happy Testing!** 🚀
